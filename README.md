@@ -6,6 +6,8 @@ A full-stack simulation tool comparing **Classic Chaitin** register allocation
 against a novel **Pressure-Ranked Chaitin** variant — implemented as the
 course research project.
 
+Refer to `summary.md` for more details.
+
 ---
 
 ## Quick Start
