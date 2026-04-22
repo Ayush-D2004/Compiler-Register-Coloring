@@ -2,7 +2,7 @@
 
 **CSL 304 Compilers · IIIT Nagpur · 2026**
 
-A full-stack simulation tool comparing **Classic Chaitin** register allocation
+A simulation tool, comparing **Classic Chaitin** register allocation
 against a novel **Pressure-Ranked Chaitin** variant — implemented as the
 course research project.
 
